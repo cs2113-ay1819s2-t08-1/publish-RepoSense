@@ -1,0 +1,14 @@
+{
+  "reportGeneratedTime": "Fri Mar 22 12:59:33 2019 UTC",
+  "repos": [
+    {
+      "location": {
+        "location": "https://github.com/reposense/RepoSense.git",
+        "repoName": "RepoSense",
+        "organization": "reposense"
+      },
+      "branch": "master",
+      "displayName": "reposense_RepoSense_master"
+    }
+  ]
+}
